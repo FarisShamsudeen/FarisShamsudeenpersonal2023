@@ -51,6 +51,7 @@ body{
 }
 
 section{
+    max-width: 1800px;
     min-height: 100vh;
     padding: 10rem 9% 2rem;
 }
