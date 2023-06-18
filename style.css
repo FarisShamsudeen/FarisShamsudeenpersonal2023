@@ -679,7 +679,7 @@ p#sent.sent {
     }
 
     .portfolio-box img {
-        height: 45rem;
+        height: 75rem;
     }
 
     .contact form .input-box input {
@@ -688,7 +688,7 @@ p#sent.sent {
 
 }
 
-@media (max-width: 400px){
+@media (max-width: 412px){
 
     .about-img img {
         margin-top: -14rem;
