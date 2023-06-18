@@ -705,6 +705,10 @@ p#sent.sent {
     .portfolio-container .portfolio-box {
         height: 39vw;
     }
+
+    .footer {
+        flex-direction: column-reverse;
+    }
 }
 
 
