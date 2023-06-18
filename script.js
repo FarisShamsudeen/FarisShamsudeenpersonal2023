@@ -64,7 +64,7 @@ const typed = new Typed('.multiple-text',{
 
 const types = new Typed('.multiples-texts',{
     strings: ['"The best software developers are those who are always learning." - Steve Jobs','"The Quran is a source of knowledge and wisdom." - Imam al-Ghazali'],
-    typeSpeed: 200, 
+    typeSpeed: 50, 
     backSpeed: 20,
     backDelay: 2000,
     loop: true,
