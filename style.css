@@ -479,13 +479,13 @@ p#sent.sent {
 /* Breakpoints!!! */
 
 
-@media (min-width: 1200px) {
+@media (max-width: 1200px) {
     html{
         font-size: 55%;
     } 
 }
 
-@media (min-width: 992px) {
+@media (max-width: 992px) {
     .header {
         padding: 2rem 3%;
     }
@@ -524,7 +524,7 @@ p#sent.sent {
     }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     #menu-icon {
         display: block; 
     }
@@ -625,7 +625,7 @@ p#sent.sent {
 
 }
 
-@media (min-width: 576px){
+@media (max-width: 576px){
 
     .services-container .services-box {
         height: 55vw;
@@ -643,7 +643,7 @@ p#sent.sent {
     
 } 
 
-@media (min-width: 595px){
+@media (max-width: 595px){
     html{
         font-size: 50%;
     }
@@ -688,7 +688,7 @@ p#sent.sent {
 
 }
 
-@media (min-width: 400px){
+@media (max-width: 400px){
 
     .about-img img {
         margin-top: -14rem;
@@ -708,7 +708,7 @@ p#sent.sent {
 }
 
 
-@media (min-width: 365px){
+@media (max-width: 365px){
 
     .home-img img {
         margin-top: -13rem;
