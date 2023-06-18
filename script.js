@@ -55,7 +55,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 // typed multiple text 
 
 const typed = new Typed('.multiple-text',{
-    strings: ['a Frontend Developer','a Hafidhul Quran','a Graphics Designer'],
+    strings: ['a Frontend Developer','a Hafidhul Quran','a Graphic Designer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
