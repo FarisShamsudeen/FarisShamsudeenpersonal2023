@@ -64,7 +64,7 @@ span{
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100vw;
     padding: 2rem 9%;
     background: var(--bg-color);
     display: flex;
@@ -131,7 +131,7 @@ span{
     margin-top: 3rem;
     align-items: center;
     justify-content: center;
-    max-width: 1800px;
+    max-width: 100%;
 
     
 } 
